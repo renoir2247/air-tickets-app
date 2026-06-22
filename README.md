@@ -68,8 +68,8 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/lookitsssonya/course-project.git
-cd course-project
+git clone https://github.com/renoir2247/air-tickets-app.git
+cd air-tickets-app
 ```
 
 ### 2. Запуск через Docker Compose (рекомендуется)
