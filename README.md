@@ -282,6 +282,6 @@ MIT License
 
 ## Полезные ссылки
 
-- [Репозиторий проекта](https://github.com/lookitsssonya/course-project.git)
+- [Репозиторий проекта](https://github.com/renoir2247/air-tickets-app.git)
 - [Документация (docs/)](docs/)
 - [Swagger UI](http://localhost:8080/swagger-ui.html)
